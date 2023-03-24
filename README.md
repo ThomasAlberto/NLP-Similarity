@@ -16,10 +16,9 @@ To run this code, you need to have the SpaCy library installed, as well as the '
 
 4. Run the Docker container by running the following command:
 
-> docker run -p 80:80 gardenpath-sentences
+> docker run -p 80:80 nlp-similarity-sentences
 
 5. Or you can just run the code from the terminal once you've cloned it.
-
 
 
 
